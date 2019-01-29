@@ -4,7 +4,7 @@ Bull's Eye
 # Course
 iOS and Swift for Beginners
 
-# Education Provider or Institution
+# Education supplier
 This iOS app is developed as a guided project in the learning path tutorial series "iOS and Swift for Beginners" undertaken at https://raywenderlich.com.
 
 # Topics covered
