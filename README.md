@@ -5,7 +5,7 @@ Bull's Eye
 iOS and Swift for Beginners
 
 # Education supplier
-This iOS app is developed as a guided project in the learning path tutorial series "iOS and Swift for Beginners" undertaken at https://raywenderlich.com.
+This iOS app is developed as a guided project from the "Your fist iOS App" video tutorials, which forms part of the learning path tutorial series "iOS and Swift for Beginners" authored by https://raywenderlich.com.
 
 # Topics / milestones
 
