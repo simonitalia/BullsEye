@@ -9,6 +9,25 @@ This iOS app is developed as a guided project from the "Your first iOS App" vide
 
 # Topics / milestones
 
+- Swift basics
+- OO programming
+- iOS ecosystem
+- Controls
+- Methods
+- Strings
+- Outlets
+- Autolayout
+- Variables
+- Functions
+- Bug Fixes
+- Popups
+- Notifications
+- Saving Data
+- User Interface
+- Score Tracking
+- App Store
+- Styling
+
 # Stretch goals
 Some features included are not part of the guided project, but are added as stretch goals. Stretch goals apply learned knowledge to accomplish and are completed unassisted. Stretch goals may either be suggested by the teaching instructor or self imposed. Strecth goals / features implemented (if any) will be listed here.
 
