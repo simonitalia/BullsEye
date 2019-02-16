@@ -37,5 +37,4 @@ April, 2018
 # Deployment information
 
 - <strong>Deployment Target (iOS version): </strong>11 and higher
-
 - <strong>Supported Devices: </strong>Universal
