@@ -38,3 +38,4 @@ April, 2018
 
 - <strong>Deployment Target (iOS version): </strong>11 and higher
 - <strong>Supported Devices: </strong>Universal
+- <strong>Optimized for: </strong>iPhone
