@@ -33,3 +33,9 @@ Some features included are not part of the guided project, but are added as stre
 
 # Completed
 April, 2018
+
+# Deployment information
+
+- <strong>Deployment Target (iOS version): </strong>11 and higher
+
+- <strong>Supported Devices: </strong>Universal
