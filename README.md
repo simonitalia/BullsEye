@@ -1,6 +1,9 @@
 # Application Name
 Bull's Eye
 
+# Objective
+The aim of this game is to drag the slider left or right and place it in a postion that matches the random numbeer you're given at the start of each round of the game. Eg: if the number provided at the start of the game is 90, drag the slder right up to where you think 90 is. The slider is from 1-100, with the mid point being 50, and the possible random number that will be genretaed will be within the same 1-100 range.
+
 # Course
 iOS and Swift for Beginners
 
