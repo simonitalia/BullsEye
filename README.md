@@ -13,34 +13,35 @@ iOS and Swift for Beginners
 # Education supplier
 This iOS app project is from the learning path tutorial series "iOS and Swift for Beginners" provided by https://raywenderlich.com.
 
-# Topics / milestones
+# Technologies
 
 - UIKit
-- UIAlertControllers
-- UIWebView (with local html files)
-- UISliderView
-- UIButtonView
-- UILabelView
-- UIImageView
-- Swift basics
-- OO programming
-- iOS ecosystem
-- Controls
-- Functions Methods
-- Strings
-- Outlets
-- Autolayout
-- Variables
-- Functions
-- Bug Fixes
-- Alerts Popups
-- Notifications
-- Saving Data
-- User Interface
-- Score Tracking
-- App Store
-- Styling
 
+- UIAlertControllers
+
+- UIWebView (with local html files)
+
+- UISliderView
+
+- UIButtonView
+
+- UILabelView
+
+- UIImageView
+
+- Controls
+
+- Functions Methods
+
+- Strings
+
+- Outlets
+
+- Autolayout
+
+- Notifications
+
+- Saving Data
 
 
 # Stretch goals
